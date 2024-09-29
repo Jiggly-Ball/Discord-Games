@@ -1,1 +1,1 @@
-# discord-minecraft
+# Discord Games
